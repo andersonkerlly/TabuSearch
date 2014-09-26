@@ -1,0 +1,4 @@
+CourseCode,CourseName,CoursePeriod,CoursePartCode,CoursePartName,CourseUnitCode,CourseUnitName,CourseUnitCredits,TeacherCode,TeacherName,TeacherDayNotAllowed
+C-001,Análise e Desenvolvimento de Sistemas,M,1,1º Semestre,D-0001,Programação de Objetos Distribuídos,5,P-0001,Ari Garcia,MON
+C-002,Análise e Desenvolvimento de Sistemas,T,2,2º Semestre,D-0002,Programação de Dispositivos Móveis,5,P-0001,Ari Garcia,MON
+C-003,Análise e Desenvolvimento de Sistemas,N,2,2º Semestre,D-0003,Programação Orientada a Serviço,5,P-0001,Ari Garcia,MON
